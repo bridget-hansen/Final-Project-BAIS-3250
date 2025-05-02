@@ -10,3 +10,18 @@ This repository details my work for my final project.
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 - [NEW TITLE](#New-title)
+
+
+## Project Title
+*Hello World Sample*
+## Description 
+This is for a class. I am making my first read me file.
+
+## How to Run the Program
+You would explain here how to run the program.
+
+## Files used 
+You would put the files used here
+
+## Additional Documents
+> Using a blockquote
