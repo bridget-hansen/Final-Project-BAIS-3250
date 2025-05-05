@@ -1,5 +1,5 @@
 ## Description 
-This folder contains the Jupyter Notebook that I used to scrape the 2016 election results. In addition I have the orginal CSV file used to intergate with my scraped data.
+This folder contains the Jupyter Notebook that I used to scrape the 2016 election results. In addition I have the orginal Excel file used to intergate with my scraped data. This folder also contains the integrated datasets that was saved to a CSV file.
 
 ## Data Dictionary 
 In additon to the datasets, the data dictionary can be found below.
