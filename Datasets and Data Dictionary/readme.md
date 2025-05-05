@@ -6,6 +6,8 @@ In additon to the datasets, the data dictionary can be found below.
 
 | Field           | Type            |Description      |
 | --------------- | --------------- | --------------- |
-| State          | Text              | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| state          | Text             | Name of State   |
+| county         | Text             | Name of County  |
+| trump votes    | Numeric          | Number of votes for Trump in each county |
+| clinton votes  | Numeric          | Number of votes for Clinton in each county |
+| total votes    | Numeric          | Total number of votes in each county for each state |
