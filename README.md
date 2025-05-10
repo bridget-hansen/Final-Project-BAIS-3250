@@ -3,7 +3,7 @@ This repository details my work for my final project.
 
 
 ## Table of contents
-- [PROJECT TITLE](#Project-Title)
+- [FINAL PROJECT](#Final-Project)
 - [FILES USED](#files-used)
 - [FILE STRUCTURE](#file-structure)
 
